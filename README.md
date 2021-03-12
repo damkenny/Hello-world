@@ -34,3 +34,38 @@ input
  output      
   
            boolean
+What i find amazing using Javsscript is the magic using the same language with other language like HTML and CSS.
+
+Example of this is using JavaScript HTML methods:
+      
+          getElementById()
+  Input--
+    
+        <! DOCTYPPE html>
+         <html>
+         <body>
+      
+        <h1> My name is Adeniye Kehinde.</h1>
+ 
+        <p id="demo"> I am a technology enthusiast who loves to code. </>
+        
+        <button type="button" onclick='document.getElementbyId("demo").innerHTML= "gotcha"'>want to know more!</button>
+        
+        </body>
+        </html>
+   Output---
+   
+      My name is Adeniye Kehinde
+    I am a technology enthusiast who loves to code.
+    what to know more!
+    --gotcha!---
+  
+    
+    
+          
+          
+ 
+
+
+
+

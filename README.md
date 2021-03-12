@@ -6,10 +6,11 @@ Functions that include
 #Alert, Console.log, let, confirm, prompt
 
 Creating web page that will incorporate HTML
+              
+              
               <!DOCTYPE html>
                <html>
                <body>
-                 
                    <script>
                     'use strict';
                       let name = prompt("What is your name?", "");

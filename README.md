@@ -2,9 +2,11 @@
 
 JavaScript for me is a langauge that has a large syntax and also has a way of writing it.
 
-I realized JavaScript has a very similar datatype to Python which data types also include boolean, strings, null value.
+I realized JavaScript has a very similar datatype to Python which data types also include boolean, strings, null value, undefined, symbol,object.
 
-Now i am getting used to learning Javascript Function like Alert, Console.log, let, confirm, prompt
+Now i am getting used to learning Javascript Function like 
+
+# Alert, Console.log, let, confirm, prompt
 
 Creating web page using HTML and incorporating javaScript using the <script></script> tag.
 

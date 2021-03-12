@@ -2,10 +2,13 @@
 
 JavaScript for me is a langauge that has a large syntax and also has a way of writing it.
 
-Functions that include
-#Alert, Console.log, let, confirm, prompt
+I realized JavaScript has a very similar datatype to Python which data types also include boolean, strings, null value.
 
-Creating web page that will incorporate HTML
+Now i am getting used to learning Javascript Function like Alert, Console.log, let, confirm, prompt
+
+Creating web page using HTML and incorporating javaScript using the <script></script> tag.
+
+Shortcut to creating an HTML 
               
               
               <!DOCTYPE html>
@@ -18,3 +21,15 @@ Creating web page that will incorporate HTML
                    </script>
                 </body>
                 </html>
+
+
+Using the function #alert automatically converts any value to a string to show it.
+
+for the string conversion and numeric conversion
+ input
+          
+          let value = true;
+          alert(typeof value);
+ output      
+  
+           boolean

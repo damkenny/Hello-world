@@ -6,7 +6,7 @@ I realized JavaScript has a very similar datatype to Python which data types als
 
 Now i am getting used to learning Javascript Function like 
 
-# Alert, Console.log, let, confirm, prompt
+# Alert, Console.log, let, confirm, prompt, Var
 
 Creating web page using HTML and incorporating javaScript using the <script></script> tag.
 
@@ -62,8 +62,16 @@ Example of this is using JavaScript HTML methods:
     what to know more!
     --gotcha!---
   
+    Writing into;
     
-    
+    an HTML element, using innerHTML.
+    HTML output using document.write().
+    alert box, using window.alert().
+    browser console, using console.log().
+
+JavaScript does have print function like Python but has a function window.print used to print the content of the current window.
+
+Single line comments start with //.Multi-line comments start with /* and end with */.
           
           
  

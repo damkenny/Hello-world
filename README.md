@@ -26,7 +26,8 @@ Shortcut to creating an HTML
 Using the function #alert automatically converts any value to a string to show it.
 
 for the string conversion and numeric conversion
- input
+
+input
           
           let value = true;
           alert(typeof value);

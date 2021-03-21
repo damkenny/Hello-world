@@ -92,6 +92,15 @@ myVar =myVar--;
 
 console.log(myVar);
 
-var remainder
+var remainder = 22 % 7;
 
+console.log(remainder)
 
+var a = 3;
+var b = 17;
+var c = 3;
+
+a += 6;
+b += 5;
+c -= 2;
+console.log(a,b,c)

@@ -1,5 +1,8 @@
 /*Exercises on introduction to programming
-Write a program that reads in (from standard input) a price of an item of clothing in dollars and then writes out to standard output how much the price would be if that item was at a 10% discount. 
+1.Write a program that reads in (from standard input) a price of an item of clothing in dollars and then writes out to standard output how much the price would be if that item was at a 10% discount. 
+
+
+
 Write a program that reads in two numbers from standard input: the price of sneakers before discount, and discounted price. The program should output the percentage of the sneakers that were discounted.
 Write a program that reads in (from standard input) the length of a movie in hours and minutes. The program should calculate and write out (to standard output) the length of the movie in minutes.
 Write a program that reads in (from standard input) the length of a movie in hours, minutes, and seconds. The program should calculate and write out (to standard output) the length of the movie in seconds.

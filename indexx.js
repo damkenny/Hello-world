@@ -12,8 +12,15 @@ function price (n) {
 
 console.log(price(50));
 
+/*(another option
 
+function getDisc(n,y) {
+  let disc = 1 - (y/n)
+  let discount = disc * 10;
+  return discount;
+}
 
+console.log(getDisc(50)));
 /*
 2.*Write a program that reads in two numbers from standard input: the price of sneakers before discount, and discounted price.
  The program should output the percentage of the sneakers that were discounted.*/
@@ -51,7 +58,7 @@ function timeConvert(n) {
 
 
   // console.log(hr, min, sec);
-}
+//}
 totalSec(200, 30, 9)
 
 /*4.Write a program that reads in (from standard input) the length of a movie in hours, minutes, and seconds. 
@@ -215,23 +222,23 @@ console.log(l);
 
 /*19. Write a JavaScript program to capitalize the first letter of every word in a string*/
 
-const Weather= "rain";
-const upper = Weather.toUpperCase();
+// const Weather= "rain";
+// const upper = Weather.toUpperCase();
 
-console.log(upper);
+// console.log(upper);
 
 
-var publication = "heavy";
-var capitalise = publication[0].toUpperCase();
-console.log(capitalise);
+// var publication = "heavy";
+// var capitalise = publication[0].toUpperCase();
+// console.log(capitalise);
 
 
 /*
 20.  Write a JavaScript program to get all the elements of an array except the last one. */
  
+// var middlePoints = ['start', 'A', 'B', 'C', 'end'];
+// var origin = middlePoints.shift();
 
-var middlePoints = ['start', 'A', 'B', 'C', 'end'];
-var origin = middlePoints.shift();
-var destination = middlePoints.pop();
+// var destination = middlePoints.pop();
 
-console.log(destination);
+// console.log (destination)*/

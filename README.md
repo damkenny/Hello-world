@@ -1,5 +1,7 @@
 # My Introduction to JavaScript
 
+Live Demo![image](https://user-images.githubusercontent.com/50354600/114382325-c6970200-9b7b-11eb-93a3-633c5b8fe45a.png)
+
 JavaScript for me is a langauge that has a large syntax and also has a way of writing it.
 
 I realized JavaScript has a very similar datatype to Python which data types also include boolean, strings, null value, undefined, symbol,object.
